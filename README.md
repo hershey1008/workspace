@@ -1,0 +1,1 @@
+fun-rec(datawhale小麦书)第三章中使用的kuairand_1k dataset 数据处理在modelscope 32G内存的notebook实例中运行会爆内存，这里进行修改降低内存占用得以推进compare_models
